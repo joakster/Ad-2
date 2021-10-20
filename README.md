@@ -20,3 +20,9 @@ El knob de la derecha sirve para modificar la frecuencia, se pueden seleccionar 
 ᚣ   Para señal tipo sierra
 
 Π   Para señal cuadrada
+
+
+*******************************************************************************
+PARA VERSIÓN DE APP EN EL SIGUIENTE LINK DE MEGA (SOLO COMPATIBLE CON MAC OSX):
+https://mega.nz/file/e0ZEUD5K#chBI3mR0jEKTv01N0LaWQ7AgZhETHNfDWHG_zK79tSA
+*******************************************************************************
