@@ -11,4 +11,12 @@ Se selecciona la frecuencia fundamental con el primer knob de la izquierda, los 
 
 ![Screen Shot 2021-10-19 at 20 43 46](https://user-images.githubusercontent.com/10868602/138014107-131ccced-d0c3-4dbf-a5fd-dfff3de1a1de.png)
 
-El knob de la derecha sirve para modificar la frecuencia, se pueden seleccionar señales sinoidales, de sierra y cuadradas.
+El knob de la derecha sirve para modificar la frecuencia, se pueden seleccionar señales senoidales, de sierra y cuadradas.
+
+ᛰ   Para apagar la señal
+
+ᜑ   Para señal senoidal
+
+ᚣ   Para señal tipo sierra
+
+Π   Para señal cuadrada
