@@ -23,6 +23,6 @@ El knob de la derecha sirve para modificar la frecuencia, se pueden seleccionar 
 
 
 *******************************************************************************
-PARA VERSIÓN DE APP EN EL SIGUIENTE LINK DE MEGA (SOLO COMPATIBLE CON MAC OSX):
+PARA VERSIÓN DE APP EN EL SIGUIENTE LINK DE MEGA (COMPATIBLE EN MAX OSX Y WINDOWS):
 https://mega.nz/file/e0ZEUD5K#chBI3mR0jEKTv01N0LaWQ7AgZhETHNfDWHG_zK79tSA
 *******************************************************************************
